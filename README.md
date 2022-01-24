@@ -1,1 +1,1 @@
-# Mint token by other
+# Lazy Mint
